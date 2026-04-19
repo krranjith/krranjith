@@ -18,6 +18,26 @@ Data Scientist with over **7 years** of experience specializing in Machine Learn
 
 ---
 
+## 🧪 Featured Projects
+
+### **Interactive AI Career Twin**
+* **Live Link:** https://ranjith.streamlit.app
+* **Tech Stack:** Python • GPT-4 • LlamaIndex • Pinecone • LlamaParse • Streamlit • Supabase • Google Drive API
+* **Description:** Developed a role-based **Agentic Vector/ Vectorless RAG chatbot** that allows users to query my professional dataset. It provides real-time, context-aware answers about my experience, skills, and projects, serving as a 24/7 digital representative.
+* **Repo:** https://github.com/krranjith/digital-ai-career-twin
+
+### **AI Price Haggler**
+* **Tech Stack:** Python • Flask • GPT-4o Vision • Google Sheets API • Fuzzy Matching • Docker • REST API
+* **Description:** Architected an **agentic AI workflow** to extract data from unstructured grocery receipts. The system monitors inflation trends by analyzing price fluctuations over time, transforming raw images into actionable consumer insights.
+* **Repo:** https://github.com/krranjith/ai-price-haggler
+
+### **Ticket Truth**
+* **Tech Stack:** Python • LangGraph • Gemini 2.5 Flash • FinBERT • Supabase (pgvector) • Financial Modeling Prep • finance • NewsAPI
+* **Description:** A Level-4 **Causal Attribution** Engine that maps global news to fundamental financial levers (Revenue, COGS, OpEx). Built with a **LangGraph multi-agent pipeline**, it validates AI-driven causal theses against real-world analyst revisions and abnormal return benchmarks to produce high-conviction equity forecasts.
+* **Repo:** https://github.com/krranjith/ai-ticker-truth
+  
+---
+
 ## 📈 Professional Experience
 
 ### **Senior Business Planning Specialist (Data Scientist)**
@@ -49,14 +69,6 @@ Data Scientist with over **7 years** of experience specializing in Machine Learn
 ## 🎓 Education
 - **Master’s in Business Analytics & Data Science** | Oklahoma State University, USA (GPA: 3.92) | *May 2024*
 - **Bachelor of Engineering in Computer Science** | SRM University, India (GPA: 8.6 - Distinction) | *May 2017*
-
----
-
-## 🧪 Key Projects
-- **Interactive AI Career Twin:** A role-based RAG chatbot built with Streamlit, LlamaIndex, and Pinecone for querying professional datasets.
-- **AI Price Haggler:** An agentic AI workflow to extract and analyze unstructured text from grocery receipts to monitor inflation trends.
-- **Customer Segmentation & Revenue Map:** A K-Means model that identified targeted campaign strategies, driving a $30M+ revenue pipeline.
-- **Medicine Adherence Prediction:** A two-phase classification model using medical claims data to predict cancer patient treatment dropouts with 80% accuracy.
 
 ---
 
