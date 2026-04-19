@@ -1,5 +1,5 @@
 # Ranjith Kumar Kuppu Rathinam
-**Data Scientist | Machine Learning & GenAI Specialist**
+**Data Scientist | Machine Learning & GenAI**
 
 [🌐 Portfolio](https://ranjith.streamlit.app) | [🔗 LinkedIn](https://linkedin.com/in/kr-rk) | [📧 Email](mailto:krranjith1996@gmail.com) | 📍 San Jose, CA 
 
