@@ -10,14 +10,6 @@ Data Scientist with over **7 years** of experience specializing in Machine Learn
 
 ---
 
-## 🛠 Skills
-- **Machine Learning:** Deep Learning, Time Series Forecasting, Causal Inference, XGBoost, K-Means Clustering, A/B & Hypothesis Testing, SARIMA, LightGBM, Random Forest, Reinforcement Learning.
-- **GenAI / NLP:** Retrieval-Augmented Generation (RAG), LLMs, LangChain, LlamaIndex, Prompt Engineering, Pinecone, Chroma DB, OCR, Text-to-SQL.
-- **Programming & Tools:** Python (Pandas, Scikit-Learn, statsmodels, SciPy), SQL/PostgreSQL, R, Snowflake, Apache Spark, Git, Docker, Streamlit, Azure, GCP, Databricks, Dataiku.
-- **Business Intelligence:** Power BI (Advanced DAX), Tableau, ETL, Price Optimization, Financial Analytics.
-
----
-
 ## 🧪 Featured Projects
 
 ### **Interactive AI Career Twin**
@@ -35,7 +27,20 @@ Data Scientist with over **7 years** of experience specializing in Machine Learn
 * **Tech Stack:** Python • LangGraph • Gemini 2.5 Flash • FinBERT • Supabase (pgvector) • Financial Modeling Prep • finance • NewsAPI
 * **Description:** A Level-4 **Causal Attribution** Engine that maps global news to fundamental financial levers (Revenue, COGS, OpEx). Built with a **LangGraph multi-agent pipeline**, it validates AI-driven causal theses against real-world analyst revisions and abnormal return benchmarks to produce high-conviction equity forecasts.
 * **Repo:** https://github.com/krranjith/ai-ticker-truth
-  
+
+### **Price Optimization Model**
+* **Tech Stack:** Python • XGBoost • SHAP • scikit-learn • Pandas • NumPy • Jupyter • Snowflake • SQL • Pricefx • Salesforce • Power BI • Streamlit • LLM/RAG
+* **Description:** Reference implementation of a quantile-regression pricing engine: five XGBoost models produce P10–P90 discount bands per deal configuration, with conformal calibration, monotone business constraints, K-means customer segmentation, and SHAP explainability. Runs end-to-end on a 64K-row synthetic dataset.
+* **Repo:** https://github.com/krranjith/price-optimization-model-demo
+
+---
+
+## 🛠 Skills
+- **Machine Learning:** Deep Learning, Time Series Forecasting, Causal Inference, XGBoost, K-Means Clustering, A/B & Hypothesis Testing, SARIMA, LightGBM, Random Forest, Reinforcement Learning.
+- **GenAI / NLP:** Retrieval-Augmented Generation (RAG), LLMs, LangChain, LlamaIndex, Prompt Engineering, Pinecone, Chroma DB, OCR, Text-to-SQL.
+- **Programming & Tools:** Python (Pandas, Scikit-Learn, statsmodels, SciPy), SQL/PostgreSQL, R, Snowflake, Apache Spark, Git, Docker, Streamlit, Azure, GCP, Databricks, Dataiku.
+- **Business Intelligence:** Power BI (Advanced DAX), Tableau, ETL, Price Optimization, Financial Analytics.
+
 ---
 
 ## 📈 Professional Experience
